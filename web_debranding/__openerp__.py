@@ -13,6 +13,7 @@
         'web_planner',
         'access_apps',
         'access_settings_menu',
+        'mail_base',
     ],
     'data': [
         'security/web_debranding_security.xml',
